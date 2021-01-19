@@ -1,1 +1,1 @@
-hi name is kalo 
+This is my first code with the use of atom
